@@ -14,6 +14,35 @@
 - 协程的实现原理
 - coroutine库等
 
+
+ # 《Kotlin极简教程》
+
+> #### [点击这里 > *去京东商城购买阅读* ](https://item.jd.com/12181725.html)
+> #### [点击这里 > *去天猫商城购买阅读* ](https://detail.tmall.com/item.htm?id=558540170670)
+
+# 正式预售:   《 Kotlin极简教程 》 
+
+
+![image.png](http://upload-images.jianshu.io/upload_images/1233356-698bea5e85c345da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![image.png](http://upload-images.jianshu.io/upload_images/1233356-ca75424c61672818.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+```
+出版社： 机械工业出版社
+ISBN：9787111579939
+版次：1
+商品编码：12181725
+品牌：机工出版
+包装：平装
+开本：16开
+出版时间：2017-09-01
+```
+
+
+
+
 ## 9.1 协程简介
 
 从硬件发展来看，从最初的单核单CPU，到单核多CPU，多核多CPU，似乎已经到了极限了，但是单核CPU性能却还在不断提升。如果将程序分为IO密集型应用和CPU密集型应用，二者的发展历程大致如下：
